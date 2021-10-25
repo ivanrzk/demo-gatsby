@@ -1,0 +1,11 @@
+.row {
+    display: inline-block;
+    flex-direction: row;
+  }
+  .block {
+    width: 200px;
+  }
+
+  .horizontalBlocks {
+    display: inline-block;
+  } 

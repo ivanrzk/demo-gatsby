@@ -1,9 +1,0 @@
-name = "my-gatsby-site"
-type = "webpack"
-account_id = "92b2abfa0bf8108d5b4a789586f24168"
-zone_id = "39e1514af5c28c64b859bfdf8b9c6620"
-#routes = ["ivan-rzk.workers.dev/*"]
-compatibility_flags = []
-workers_dev = true
-site = {bucket = "./public",entry-point = "workers-site"}
-compatibility_date = "2021-10-19"
